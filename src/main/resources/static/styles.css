@@ -1,3 +1,16 @@
+.button{
+    border-radius: 5px;
+    background-color: #a2115a;
+    color: white;
+}
+/*.button:active {*/
+/*    background-color:yellow;*/
+/*}*/
+.button:focus {
+    background-color: black;
+}
+
+
 .tg {
     border-collapse: collapse;
     border-color: #aabcfe;
